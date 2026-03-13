@@ -103,7 +103,7 @@ The extension also demonstrates how real-world consumer interactions could gener
 
 # How Judges Should Navigate the Application
 
-## ShopSmart
+## Shop.Py
 
 ### Instructions
 
@@ -134,7 +134,7 @@ To generate production builds for all packages:
 
 ---
 
-## Shop.py
+## ShopSmart
 
 ### Installation
  
